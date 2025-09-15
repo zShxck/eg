@@ -1,0 +1,7 @@
+node_modules
+profiles/
+profilesss/
+logs/
+.env
+.DS_Store
+proxies.txt
